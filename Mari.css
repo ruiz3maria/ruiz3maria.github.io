@@ -71,7 +71,7 @@ html{
 .inicio .contenido .foto img{
     max-width: 200px;
     border-radius: 50%;
-    border: 5px solid #940253;
+    border: 5px solid #080808;
     position: absolute;
     left: 50%;
     top: -100px;
