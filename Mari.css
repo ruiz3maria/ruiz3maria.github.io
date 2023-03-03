@@ -26,7 +26,7 @@ html{
 .inicio .contenido  header nav{
     position: fixed;
     margin-left: 60px;
-    background-color: #940253;
+    background-color: #8a3575e5;
     padding: 15px;
     border-radius: 10px;
     text-align: left;
@@ -42,7 +42,7 @@ html{
 }
 .inicio .contenido header .nav-bar{
     position: fixed;
-    background-color: #940253;
+    background-color: #8a3575e5;
     font-size: 20px;
     width: 50px;
     height: 50px;
@@ -96,7 +96,7 @@ html{
     font-size: 30px;
 }
 .sobremi .contenido .especial{
-    color: #940253;
+    color: #8a3575e5;
     font-weight: bold;
     margin-top: 15px;
 }
@@ -114,11 +114,11 @@ html{
     width: 30%;
 }
 .sobremi .contenido .fila .col i{
-    color: #940253;
+    color: #8a3575e5;
     display: inline-block;
     width: 40px;
     height: 40px;
-    border: 2px solid #940253;
+    border: 2px solid #8a3575e5;
     line-height: 40px;
     border-radius: 50%;
 }
@@ -154,7 +154,7 @@ html{
     display: inline-block;
     color: #940253;
     font-weight: bold;
-    border: 2px solid #940253;
+    border: 2px solid #8a3575e5;
     padding: 10px;
 }
 .resumen .contenido .info .col table{
@@ -205,20 +205,20 @@ html{
     background-color: hsl(305, 90%, 24%);
     color:hsl(322, 9%, 83%);
     border: 1px solid #ccbac4;
-    border-radius: 50%;
-    width: 60px;
-    height: 60px;
+    border-radius: 70%;
+    width: 70px;
+    height: 70px;
     line-height: 50px;
-    margin: 0 10px;
+    margin: 0 20px;
     transition: .3s;
 }
 .redes a:hover{
     color:#fff;
-    background-color: hsl(320, 90%, 34%);
+    background-color: hsl(12, 93%, 57%);
     box-shadow: 0 0 20px #fff;
 }
 .contacto{
-    background-color: #777474;
+    background-color: #bab9b9;
     padding: 140px 0 100px 0;
     color: #0a0a0a;
     text-align: center;
@@ -240,7 +240,7 @@ html{
     margin-top: 50px;
 }
 .contacto .contenido .fila .col h2{
-    color: #940253;
+    color: #8a3575e5;
 }
 @media screen and (max-width:800px){
     .habilidades .contenido .fila{
