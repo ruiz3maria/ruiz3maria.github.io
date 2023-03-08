@@ -49,7 +49,7 @@ html{
     border-radius: 50%;
     line-height: 50px;
     cursor: pointer;
-    transition: .3s; 
+    transition: .15; 
 }
 .inicio .contenido header .nav-bar:hover{
     box-shadow: 0 0 35px #fff;
@@ -63,7 +63,7 @@ html{
 }
 .inicio .contenido .foto{
     position: relative;
-    transition: 5s;
+    transition: 10s;
 }
 .inicio .contenido .foto:hover{
     transform:rotateY(380deg);
