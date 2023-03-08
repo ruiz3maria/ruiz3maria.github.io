@@ -132,55 +132,55 @@ html{
     font-weight: bold;
     margin: 8px 0;
 }
-.resumen{
+.experiencia{
     background-color: #e6e6e6;
     padding: 140px 0 100px 0;
     text-align: center;
 }
-.resumen .contenido{
+.experiencia .contenido{
     max-width: 1000px;
     margin: auto;
     padding: 0 10px;
 }
-.resumen .contenido h3{
+.experiencia .contenido h3{
     text-transform: uppercase;
     font-size: 30px;
 }
-.resumen .contenido .info{
+.experiencia .contenido .info{
     text-align: left;
     display: flex;
     justify-content: space-between;
     margin-top: 30px;
 }
-.resumen .contenido .info .col{
+.experiencia .contenido .info .col{
     width: 45%;
 }
-.resumen .contenido .info .col .titulo{
+.experiencia .contenido .info .col .titulo{
     display: inline-block;
     color: #940253;
     font-weight: bold;
     border: 2px solid #8a3575e5;
     padding: 10px;
 }
-.resumen .contenido .info .col table{
+.experiencia .contenido .info .col table{
     margin-top: 30px;
     border-collapse: collapse;
 }
-.resumen .contenido .info .col table .datos{
+.experiencia .contenido .info .col table .datos{
     width: 40%;
     border-bottom: 1px solid #bab9b9;
 }
-.resumen .contenido .info .col table h4{
+.experiencia .contenido .info .col table h4{
     margin-top: 10px;
 }
-.resumen .contenido .info .col table h3{
+.experiencia.contenido .info .col table h3{
     font-size: 20px;
     margin-bottom: 5px;
 }
-.resumen .contenido .info .col table p{
+.experiencia .contenido .info .col table p{
     font-size: 14px;
 }
-.resumen .contenido .info .col table .descripcion{
+.experiencia .contenido .info .col table .descripcion{
     border-left: 1px solid #bab9b9;
     padding-left: 20px;
 }
