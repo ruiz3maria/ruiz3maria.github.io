@@ -115,13 +115,17 @@ html{
     width: 30%;
 }
 .sobremi .contenido .fila .col i{
-    color: #8a3575e5;
     display: inline-block;
-    width: 40px;
-    height: 40px;
-    border: 2px solid #8a3575e5;
-    line-height: 40px;
-    border-radius: 50%;
+    text-decoration: none;
+    background-color: hsl(305, 90%, 24%);
+    color:hsl(322, 9%, 83%);
+    border: 1px solid #ccbac4;
+    border-radius: 70%;
+    width: 70px;
+    height:70px;
+    line-height: 70px;
+    margin: 0 50px;
+    transition: .3s;   
 }
 .sobremi .contenido .fila .col span{
     display: block;
