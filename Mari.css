@@ -6,6 +6,8 @@
  }
 html{
     scroll-behavior: smooth;
+    cursor: url(Imagen/icons8-corazones-30.png),
+    auto;
 }
 .inicio{
     background: linear-gradient(rgba(0,0,0,.3), rgba(0,0,0,.3));
@@ -32,6 +34,7 @@ html{
     text-align: left;
     z-index: 99;
     display: none;
+    cursor: url(Imagen/icons8-estrella-30.png), auto;
 }
 .inicio .contenido header nav a{
     display: block;
@@ -39,6 +42,7 @@ html{
     text-decoration: none;
     margin-bottom: 10px;
     font-weight: bold;
+    cursor: url(Imagen/icons8-estrella-30.png), auto;
 }
 .inicio .contenido header .nav-bar{
     position: fixed;
@@ -50,6 +54,7 @@ html{
     line-height: 50px;
     cursor: pointer;
     transition: .15; 
+    cursor: url(Imagen/icons8-estrella-30.png), auto;
 }
 .inicio .contenido header .nav-bar:hover{
     box-shadow: 0 0 35px #fff;
@@ -125,7 +130,14 @@ html{
     height:70px;
     line-height: 70px;
     margin: 0 50px;
-    transition: .3s;   
+    transition: .3s; 
+    cursor: url(Imagen/icons8-estrella-30.png), auto;
+}
+.sobremi .contenido .fila .col i:hover{
+    color:#fff;
+    background-color: hsl(0, 2%, 9%);
+    box-shadow: 0 0 20px #fff;
+    cursor: url(Imagen/icons8-estrella-30.png), auto;
 }
 .sobremi .contenido .fila .col span{
     display: block;
@@ -216,11 +228,13 @@ html{
     line-height: 70px;
     margin: 0 50px;
     transition: .3s;
+    cursor: url(Imagen/icons8-estrella-30.png), auto;
 }
 .redes a:hover{
     color:#fff;
     background-color: hsl(0, 2%, 9%);
     box-shadow: 0 0 20px #fff;
+    cursor: url(Imagen/icons8-estrella-30.png), auto;
 }
 .contacto{
     background-color: #bab9b9;
@@ -245,11 +259,13 @@ html{
     line-height: 70px;
     margin: 0 20px;
     transition: .3s;
+    cursor: url(Imagen/icons8-estrella-30.png), auto;
 }
 .contacto a:hover{
     color:#fff;
     background-color: hsl(0, 2%, 9%);
     box-shadow: 0 0 20px #fff;
+    cursor: url(Imagen/icons8-estrella-30.png), auto;
 }
 .contacto .contenido h3{
     text-transform: uppercase;
@@ -298,11 +314,13 @@ html{
     line-height: 70px;
     margin: 0 50px;
     transition: .3s;
+    cursor: url(Imagen/icons8-estrella-30.png), auto;
 }
 .descarga a:hover{
     color:#fff;
     background-color: hsl(0, 2%, 9%);
     box-shadow: 0 0 20px #fff;
+    cursor: url(Imagen/icons8-estrella-30.png), auto;
 }
 @media screen and (max-width:800px){
     .habilidades .contenido .fila{
