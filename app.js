@@ -1,6 +1,6 @@
 var menu_visible = false;
 let menu = document.getElementById("nav");
-function mostrarOcultarMenu(){
+function mostrarMenu(){
     if(menu_visible==false){
         menu.style.display = "block";
         menu_visible = true;
