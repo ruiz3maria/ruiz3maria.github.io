@@ -330,9 +330,6 @@ html{
         width: 100%;
         text-align: center;
     }
-    .habilidades .contenido .fila .col .cont-barra{
-        justify-content: center;
-    }
     .sobremi .contenido .fila{
       display: block;  
     }
