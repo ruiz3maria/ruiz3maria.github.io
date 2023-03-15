@@ -9,6 +9,18 @@ html{
     cursor: url(Imagen/icons8-corazones-30.png),
     auto;
 }
+.boton{
+    position: fixed;
+    background-color: #9e3f86e5;
+    font-size: 20px;
+    width: 80px;
+    height: 50px;
+    border-radius: 60%;
+    line-height: 10px;
+    cursor: pointer;
+    transition: .3s;
+    cursor: url(Imagen/icons8-estrella-30.png), auto;
+}
 .inicio{
     background: linear-gradient(rgba(0,0,0,.3), rgba(0,0,0,.3));
     background-position: center center;
