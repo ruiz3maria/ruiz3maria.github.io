@@ -350,18 +350,18 @@ html{
         margin: auto;
         margin-top: 20px;
     }
-    .resumen .contenido .info{
+    .experiencia .contenido .info{
         display: block;
     }
-    .resumen .contenido .info .col{
+    .experiencia .contenido .info .col{
         width: 90%;
         margin: auto;
     }
-    .resumen .contenido .info .col .titulo{
+    .experiencia .contenido .info .col .titulo{
         display: block;
         text-align: center;
     }
-    .resumen .contenido .info .col table{
+    .experiencia .contenido .info .col table{
         margin-top: 10px;
         margin-bottom: 30px;
     }
