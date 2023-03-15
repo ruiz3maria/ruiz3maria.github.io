@@ -17,3 +17,7 @@ for(var x = 0; x <links.length;x++){
         menu_visible = false;
     }
 }
+function saludar(nombre){
+    console.log("Hola "+ nombre);
+    alert("Hola "+nombre)
+}
