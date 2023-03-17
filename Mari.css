@@ -114,7 +114,7 @@ html{
 }
 .sobremi .contenido h3{
     text-transform: uppercase;
-    font-size: 30px;
+    font-size: 20px;
 }
 .sobremi .contenido .especial{
     color: #8a3575e5;
@@ -171,7 +171,7 @@ html{
 }
 .experiencia .contenido h3{
     text-transform: uppercase;
-    font-size: 30px;
+    font-size: 20px;
 }
 .experiencia .contenido .info{
     text-align: left;
@@ -284,7 +284,7 @@ html{
 }
 .contacto .contenido h3{
     text-transform: uppercase;
-    font-size: 30px;
+    font-size: 20px;
     padding: 0 10px;
 }
 .contacto .contenido .fila{
@@ -314,7 +314,7 @@ html{
 }
 .descarga h3{
     text-transform: uppercase;
-    font-size: 30px;
+    font-size: 20px;
     line-height: 100px;
 }
 .descarga a{
