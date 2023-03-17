@@ -195,7 +195,7 @@ html{
 }
 .experiencia .contenido .info .col table .datos{
     width: 40%;
-    border-bottom: 1px solid #bab9b9;
+    border-bottom: 10px solid #bab9b9;
 }
 .experiencia .contenido .info .col table h4{
     margin-top: 10px;
