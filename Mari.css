@@ -27,7 +27,7 @@ html{
     transition: .3s;
     cursor: url(Imagen/icons8-estrella-30.png), auto;
 }
-.boton :hover{
+.boton:hover{
     box-shadow: 0 0 35px #fff;
 }
 .inicio{
