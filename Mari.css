@@ -8,16 +8,21 @@ html{
     scroll-behavior: smooth;
     cursor: url(Imagen/icons8-corazones-30.png),
     auto;
+    padding: auto;
+}
+.contenedor{
+    background: linear-gradient(rgba(0,0,0,.3), rgba(0,0,0,.3));
+    padding: 35px;
+    display: flex;
+    justify-content:left;
 }
 .boton{
-    position: fixed;
-    margin: 40px 1000px 40px;
     background-color: #9e3f86e5;
     font-size: 10px;
     width: 50px;
     height: 50px;
     border-radius: 50%;
-    line-height: 10px;
+    line-height: 50px;
     cursor: pointer;
     transition: .3s;
     cursor: url(Imagen/icons8-estrella-30.png), auto;
@@ -44,7 +49,7 @@ html{
 .inicio .contenido  header nav{
     position: fixed;
     margin-left: 60px;
-    background-color: #8a3575e5;
+    background-color: #9e3f86e5;
     padding: 15px;
     border-radius: 10px;
     text-align: left;
@@ -62,7 +67,7 @@ html{
 }
 .inicio .contenido header .nav-bar{
     position: fixed;
-    background-color: #8a3575e5;
+    background-color: #9e3f86e5;
     font-size: 20px;
     width: 50px;
     height: 50px;
@@ -80,7 +85,7 @@ html{
 }
 .inicio .contenido .info h1{
     font-size: 3rem;
-    letter-spacing: 5px;
+    font-family: "Yellowtail";
 }
 .inicio .contenido .foto{
     position: relative;
@@ -117,7 +122,7 @@ html{
     font-size: 20px;
 }
 .sobremi .contenido .especial{
-    color: #8a3575e5;
+    color: #9e3f86e5;
     font-weight: bold;
     margin-top: 15px;
 }
@@ -137,7 +142,7 @@ html{
 .sobremi .contenido .fila .col i{
     display: inline-block;
     text-decoration: none;
-    background-color: hsl(305, 90%, 24%);
+    background-color: #9e3f86e5;
     color:hsl(322, 9%, 83%);
     border: 1px solid #ccbac4;
     border-radius: 70%;
@@ -161,7 +166,7 @@ html{
 }
 .experiencia{
     background-color: #e6e6e6;
-    padding: 140px 0 100px 0;
+    padding: 100px 0 100px 0;
     text-align: center;
 }
 .experiencia .contenido{
@@ -184,7 +189,7 @@ html{
 }
 .experiencia .contenido .info .col .titulo{
     display: inline-block;
-    color: #940253;
+    color: #9e3f86e5;
     font-weight: bold;
     border: 2px solid #8a3575e5;
     padding: 10px;
@@ -234,7 +239,7 @@ html{
 .redes a{
     display: inline-block;
     text-decoration: none;
-    background-color: hsl(305, 90%, 24%);
+    background-color: #9e3f86e5;
     color:hsl(322, 9%, 83%);
     border: 1px solid #ccbac4;
     border-radius: 70%;
@@ -253,7 +258,7 @@ html{
 }
 .contacto{
     background-color: #bab9b9;
-    padding: 140px 0 100px 0;
+    padding: 100px 0 100px 0;
     color: #0a0a0a;
     text-align: center;
 }
@@ -265,7 +270,7 @@ html{
 .contacto a{
     display: inline-block;
     text-decoration: none;
-    background-color: hsl(305, 90%, 24%);
+    background-color: #9e3f86e5;
     color:hsl(322, 9%, 83%);
     border: 1px solid #ccbac4;
     border-radius: 70%;
@@ -295,11 +300,11 @@ html{
     margin-top: 50px;
 }
 .contacto .contenido .fila .col h2{
-    color: #8a3575e5;
+    color: #9e3f86e5;
 }
 .descarga{
     background-color: #bab9b9;
-    padding: 20px 0 10px;
+    padding: 100px 0 100px;
     color: #0a0a0a;
     text-align: center;
 }
@@ -320,7 +325,7 @@ html{
 .descarga a{
     display: inline-block;
     text-decoration: none;
-    background-color: hsl(305, 90%, 24%);
+    background-color: #9e3f86e5;
     color:hsl(322, 9%, 83%);
     border: 1px solid #ccbac4;
     border-radius: 70%;
