@@ -109,7 +109,7 @@ html{
 }
 .sobremi{
     background-color: #e6e6e6;
-    padding: 140px 0 100px 0;
+    padding: 100px 0 100px 0;
     text-align: center;
 }
 .sobremi .contenido{
@@ -166,7 +166,7 @@ html{
 }
 .experiencia{
     background-color: #e6e6e6;
-    padding: 100px 0 100px 0;
+    padding: 50px 0 50px 0;
     text-align: center;
 }
 .experiencia .contenido{
@@ -218,7 +218,7 @@ html{
 }
 .redes{
     background-color: #bab9b9;
-    padding: 20px 0 10px;
+    padding: 50px 0 50px;
     color: #0a0a0a;
     text-align: center;
 }
@@ -258,7 +258,7 @@ html{
 }
 .contacto{
     background-color: #bab9b9;
-    padding: 100px 0 100px 0;
+    padding: 50px 0 50px 0;
     color: #0a0a0a;
     text-align: center;
 }
@@ -304,7 +304,7 @@ html{
 }
 .descarga{
     background-color: #bab9b9;
-    padding: 100px 0 100px;
+    padding: 50px 0 50px;
     color: #0a0a0a;
     text-align: center;
 }
