@@ -342,6 +342,27 @@ html{
     box-shadow: 0 0 20px #fff;
     cursor: url(Imagen/icons8-estrella-30.png), auto;
 }
+.contenedor1{
+    background: linear-gradient(rgba(0,0,0,.3), rgba(0,0,0,.3));
+    padding: 20px;
+    display: flex;
+    justify-content:left;
+}
+.boton1{
+    background-color: #9e3f86e5;
+    font-size: 10px;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    line-height: 50px;
+    cursor: pointer;
+    transition: .3s;
+    cursor: url(Imagen/icons8-estrella-30.png), auto;
+}
+.boton1:hover{
+    box-shadow: 0 0 35px #fff;
+}
+
 @media screen and (max-width:800px){
     .habilidades .contenido .fila{
         display: block;
