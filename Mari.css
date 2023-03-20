@@ -15,6 +15,7 @@ html{
     padding: 20px;
     display: flex;
     justify-content:left;
+     background-image: url(Imagen/1\ fondos\ con\ efectos.gif);
 }
 .boton{
     background-color: #9e3f86e5;
@@ -347,6 +348,7 @@ html{
     padding: 20px;
     display: flex;
     justify-content:left;
+     background-image: url(Imagen/1\ fondos\ con\ efectos.gif);
 }
 .boton1{
     background-color: #9e3f86e5;
