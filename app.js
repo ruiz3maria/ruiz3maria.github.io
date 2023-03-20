@@ -21,11 +21,11 @@ let miBoton=document.getElementById("miBoton");
 
 miBoton.addEventListener("click",saludar);
 function saludar(){
-    alert("Bienveid@ Ticmas,¿Cómo estas?");
+    alert("Bienveid@ a mi porfolio");
 }
 let miBoton1=document.getElementById("miBoton1");
 miBoton1.addEventListener("click",despedir);
 
 function despedir(){
-    alert("Hasta Luego Ticmas!!!");
+    alert("Hasta Luego!!!");
 }
