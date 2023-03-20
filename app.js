@@ -17,7 +17,15 @@ for(var x = 0; x <links.length;x++){
         menu_visible = false;
     }
 }
-function saludar(nombre,apellido){
-    console.log("Hola "+ nombre+" "+apellido);
-    alert("Bienvenido "+nombre+ " "+apellido);
+let miBoton=document.getElementById("miBoton");
+
+miBoton.addEventListener("click",saludar);
+function saludar(){
+    alert("Bienveid@ Ticmas,¿Cómo estas?");
+}
+let miBoton1=document.getElementById("miBoton1");
+miBoton1.addEventListener("click",despedir);
+
+function despedir(){
+    alert("Hasta Luego Ticmas!!!");
 }
