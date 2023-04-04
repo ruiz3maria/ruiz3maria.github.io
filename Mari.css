@@ -13,9 +13,8 @@ html{
 .contenedor{
     background: linear-gradient(rgba(0,0,0,.3), rgba(0,0,0,.3));
     padding: 20px;
-    display: flex;
-    justify-content:left;
-     background-image: url(Imagen/1\ fondos\ con\ efectos.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 .boton{
     background-color: #9e3f86e5;
@@ -348,7 +347,8 @@ html{
     padding: 20px;
     display: flex;
     justify-content:left;
-     background-image: url(Imagen/1\ fondos\ con\ efectos.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 .boton1{
     background-color: #9e3f86e5;
